@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-9-20
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A paper titled "Rethinking Transmit Power Control for SAE J3161/1 Congestion Control Algorithm" has been accepted to **IEEE VTC2023-Fall** and I received a **Travel Grant Award**
