@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a Master’s student in Department of Computer Science and Engineering at Korea University advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr).
+Hi, I am a Master’s student in Department of Computer Science and Engineering at Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I'm currently a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, advised by [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Dr. Seyeon Kim](https://sites.google.com/view/seyeon/?pli=1).
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
