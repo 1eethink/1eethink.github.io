@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper titled "Rethinking Transmit Power Control for SAE J3161/1 Congestion Control Algorithm" has been accepted to **IEEE VTC2023-Fall** with a **Student Travel Grant Award**
+A paper titled "Rethinking Transmit Power Control for SAE J3161/1 Congestion Control Algorithm" has been accepted to **IEEE VTC2023-Fall** with a **Student Travel Grant**
