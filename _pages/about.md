@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a Master’s student in Department of Computer Science and Engineering at Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I am currently a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, advised by [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Dr. Seyeon Kim](https://sites.google.com/view/seyeon/?pli=1). My research interests broadly encompass **network systems** and **wireless networks**, with a focus on practical applications such as **volumetric video streaming**. I am highly interested in how emerging technologies like **deep learning**, **reinforcement learning**, **neural radiance fields (NeRF)**, and **3D Gaussian splatting** can be leveraged to address various challenges in these fields.
+Hi, I am a Master’s student in Department of Computer Science and Engineering at Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I was a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, advised by [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Dr. Seyeon Kim](https://sites.google.com/view/seyeon/?pli=1). My research interests broadly encompass **network systems** and **wireless networks**, with a focus on practical applications such as **volumetric video streaming**. I am highly interested in how emerging technologies like **deep learning**, **reinforcement learning**, **neural radiance fields (NeRF)**, and **3D Gaussian splatting** can be leveraged to address various challenges in these fields.
 
 
 
