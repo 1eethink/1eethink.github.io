@@ -23,7 +23,7 @@ Hi, I am a Ph.D. student in the Department of Computer Sciences at the Universit
 My research interests broadly encompass **network systems** and **wireless networks**, with a focus on practical applications such as **volumetric video streaming**. I am highly interested in how emerging technologies like **deep learning**, **reinforcement learning**, **neural radiance fields (NeRF)**, and **3D Gaussian splatting** can be leveraged to address various challenges in these fields.
 
 
-I am **actively seeking internship opportunities** (Summer 2026) in **multimedia network systems** and **mobile systems**.
+**_Actively seeking internship opportunities_** (Summer 2026) in **multimedia network systems** and **mobile systems**.
 
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
